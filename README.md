@@ -11,6 +11,16 @@ AIM : To create a virtual machine with the required specification. </br>
 
 ![image](https://user-images.githubusercontent.com/113246116/218371720-f94a1eb4-4471-4588-9043-dda4a27459c3.png)
 
+## Experiment - 3 Creating a new HardDisk for an existing VM : </br>
+AIM : Create a virtual hard disk and allocate the storage using VMWare Workstation. </br>
+
+![image](https://user-images.githubusercontent.com/113246116/218372153-5c388011-b788-4553-9296-85975deb42ed.png)
+
+## Experiment - 4 Snapshot and Cloning a VM : </br>
+AIM : Create a snapshot and clone of a VM and test them respectively. </br>
+
+Cloning a Ubuntu_64bit : 
+![image](https://user-images.githubusercontent.com/113246116/218372688-b087aabf-5d46-4363-a76f-98b13e50cdc2.png)
 
 
 
