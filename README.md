@@ -25,10 +25,21 @@ Cloning a Ubuntu_64bit :
 Snapshopt : 
 ![image](https://user-images.githubusercontent.com/113246116/218373479-2341436a-9e66-495c-9fc1-2485bf890fab.png)
 
+## Experiment - 5 Demonstrating IaaS in Azure </br>
+AIM : To demonstrate Infrastructure as a service in a public cloud platform. </br> 
+
+![image](https://user-images.githubusercontent.com/113246116/218553853-4588df4d-dd83-4519-98bd-e9eb1a908407.png)
+
+
 ## Experiment - 9 Configuration Setup for installing Hadoop </br>
-AIM : PERFORM THE BASIC CONFIGURATION SETUP FOR INSTALLING HADOOP 2.X LIKE CREATING THE HDUSER AND SSH LOCALHOST
+AIM : PERFORM THE BASIC CONFIGURATION SETUP FOR INSTALLING HADOOP 2.X LIKE CREATING THE HDUSER AND SSH LOCALHOST </br>
 
 ![exp9_cc](https://user-images.githubusercontent.com/113246116/218547108-3c37f473-9e31-4bf3-9adb-a936057d27b0.png)
+
+## Experiment - 10 Install Hadoop and configure namenode and datanode </br>
+AIM : To install Hadoop 2.7.x and configure namenode and datanode in a Linux(Kali / Ubuntu ) Environment. </br>
+
+![exp10_cc](https://user-images.githubusercontent.com/113246116/218553493-71ac9833-4500-47dd-a00c-825f5d5ce56e.png)
 
 
 
