@@ -22,5 +22,10 @@ AIM : Create a snapshot and clone of a VM and test them respectively. </br>
 Cloning a Ubuntu_64bit : 
 ![image](https://user-images.githubusercontent.com/113246116/218372688-b087aabf-5d46-4363-a76f-98b13e50cdc2.png)
 
+Snapshopt : 
+![image](https://user-images.githubusercontent.com/113246116/218373479-2341436a-9e66-495c-9fc1-2485bf890fab.png)
+
+
+
 
 
