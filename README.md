@@ -30,6 +30,11 @@ AIM : To demonstrate Infrastructure as a service in a public cloud platform. </b
 
 ![image](https://user-images.githubusercontent.com/113246116/218553853-4588df4d-dd83-4519-98bd-e9eb1a908407.png)
 
+## Experiment - 6 Creating a simple website using Azure </br>
+AIM : To create a simple web site using any public cloud service provider. </br>
+
+![image](https://user-images.githubusercontent.com/113246116/218554501-dba7b578-8379-4e8f-987a-cd16c3ef33ca.png)
+
 
 ## Experiment - 9 Configuration Setup for installing Hadoop </br>
 AIM : PERFORM THE BASIC CONFIGURATION SETUP FOR INSTALLING HADOOP 2.X LIKE CREATING THE HDUSER AND SSH LOCALHOST </br>
