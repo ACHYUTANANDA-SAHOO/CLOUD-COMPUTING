@@ -25,6 +25,12 @@ Cloning a Ubuntu_64bit :
 Snapshopt : 
 ![image](https://user-images.githubusercontent.com/113246116/218373479-2341436a-9e66-495c-9fc1-2485bf890fab.png)
 
+## Experiment - 9 Configuration Setup for installing Hadoop </br>
+AIM : PERFORM THE BASIC CONFIGURATION SETUP FOR INSTALLING HADOOP 2.X LIKE CREATING THE HDUSER AND SSH LOCALHOST
+
+![exp9_cc](https://user-images.githubusercontent.com/113246116/218547108-3c37f473-9e31-4bf3-9adb-a936057d27b0.png)
+
+
 
 
 
